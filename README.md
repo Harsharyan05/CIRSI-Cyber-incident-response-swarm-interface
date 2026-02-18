@@ -1,4 +1,4 @@
-# CIRSI-Cyber-incident-report-system-interface-
+# CIRSI-Cyber-incident-response-swarm-interface
 # ThreatCopilot Documentation
 
 Welcome to the comprehensive documentation for ThreatCopilot - the AI-powered autonomous Security Operations Center.
